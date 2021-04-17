@@ -1,5 +1,5 @@
 # Persistent-Kelp- Nur Arafeh Dalmau- The University of Queensland
-Repository for Communications Earth & Environment paper
+Repository for Communications Earth & Environment paper.
 This repository contains the kelp forest persistence information used in this study, and the codes used to estimate the representation of the present kelp and the adjusted representation targets. We also include the code used to create the bar plots for Figure 1 and 2 and the
 results from the GIS spatial overlap analysis (persistence and protected areas).
 
